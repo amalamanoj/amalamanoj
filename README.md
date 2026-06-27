@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Amala Manoj</h1>
-<h3 align="center">💻 Frontend Developer | 🇮🇳 India</h3>
+<h3 align="center">💻 B Tech Student | 🇮🇳 India</h3>
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Expense Tracker**
+- 🔭 I’m complete the**EcoPack AI Project**
 - 🌱 Learning **Advanced Frontend & Backend**
 - 💬 Ask me about **HTML, CSS, JavaScript**
 - ⚡ Fun fact: I love designing UI 🎨
