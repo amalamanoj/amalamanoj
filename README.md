@@ -8,7 +8,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=24&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+Lover;Open+Source+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=24&center=true&vCenter=true&width=500&lines=Frontend+Developer;Open+Source+Enthusiast"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,mongodb,mysql,aws&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,python,java,mongodb,mysql,aws&theme=dark"/>
 </p>
 
 ---
