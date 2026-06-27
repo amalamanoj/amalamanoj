@@ -8,7 +8,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=24&center=true&vCenter=true&width=500&lines="Python lover"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=24&center=true&vCenter=true&width=500&lines="Python Programmer";/>
 </p>
 
 ---
