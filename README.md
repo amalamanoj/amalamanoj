@@ -15,6 +15,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m complete the**EcoPack AI Project**
+- 🔭I,m complete **Data Science** one month internship
 - 🌱 Learning **Advanced Frontend & Backend**
 - 💬 Ask me about **HTML, CSS, JavaScript**
 - ⚡ Fun fact: I love designing UI 🎨
